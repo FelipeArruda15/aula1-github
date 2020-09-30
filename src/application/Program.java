@@ -26,7 +26,7 @@ public class Program {
 		double areaX = x.area();
 		
 		double areaY = y.area();
-		
+		System.out.println("Bom dia!!");
 		System.out.printf("Triângulo X área : %.4f%n", areaX);
 		System.out.printf("Triângulo Y área : %.4f%n", areaY);
 		
